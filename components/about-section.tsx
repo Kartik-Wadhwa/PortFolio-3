@@ -83,8 +83,8 @@ export function AboutSection() {
                 <div className="absolute inset-0 bg-gradient-to-br from-blue-400 to-cyan-400 rounded-full animate-pulse opacity-20" />
                 <div className="relative w-full h-full rounded-full overflow-hidden border-4 border-white shadow-2xl bg-gradient-to-br from-blue-100 to-cyan-100">
                   <img
-                    src="/ktk.jpg"
-                    alt="Alex Johnson - Software Engineer"
+                    src="/ktk.png"
+                    alt="Kartik Wadhwa- Software Engineer"
                     className="w-full h-full object-cover"
                   />
                 </div>
