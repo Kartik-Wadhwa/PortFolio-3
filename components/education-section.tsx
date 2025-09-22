@@ -41,7 +41,7 @@ export function EducationSection() {
       school: "DL DAV Public School, New Delhi",
       period: "2018 - 2019",
       description: "Student in Non Medical Stream with a focus on Computer Science",
-      achievements: ["Percentage: 81.2/100.0"],
+      achievements: ["CGPA: 8.55/10.0"],
     },
   ]
 
