@@ -48,6 +48,12 @@ export function EducationSection() {
   const certifications = [
     {
       icon: Award,
+      title: "Power Platform Developer Associate",
+      issuer: "Microsoft",
+      year: "2026",
+    },
+    {
+      icon: Award,
       title: "Dynamics 365 Fundamentals (CRM)",
       issuer: "Microsoft",
       year: "2024",
